@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "474140981001",
+    "firebase_url": "https://notify-6b5fb.firebaseio.com",
+    "project_id": "notify-6b5fb",
+    "storage_bucket": "notify-6b5fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474140981001:android:37870661efa438b3",
+        "android_client_info": {
+          "package_name": "com.example.manthole.notify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474140981001-b5mfof0gfo3t0k7bvd26q4ctlrervqr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manthole.notify",
+            "certificate_hash": "b3298fa65e96f946bee597667aa200dea38fc4df"
+          }
+        },
+        {
+          "client_id": "474140981001-273hj6d51qsd1rhoaibdmfrcknuob154.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHTHeLRCQ-Uy2FAMMh5SjdG539_bNkjeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474140981001-273hj6d51qsd1rhoaibdmfrcknuob154.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Logout"
+        android:icon="@drawable/logout"
+        android:title="Logout"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/viewFam"
+        android:icon="@drawable/viewfam"
+        android:title="viewFam"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/createfamgroup"
+        android:icon="@drawable/creategroup"
+        android:title="createfamgroup"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/notifications"
+        android:title="Family"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/allnotifications"
+        android:icon="@drawable/allnotifications"
+        android:title="allnotifications"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/settingslogo"
+        android:icon="@drawable/settingsslogo"
+        android:title="allnotifications"
+        app:showAsAction="always" />
+
+
+</menu>
